@@ -41,9 +41,6 @@
     .title {
       font-size: 1.2em;
     }
-    .img_space{
-      height: 200px;
-    }
     .scrollable-div {
         margin-top: 15vh;
       }
@@ -238,6 +235,9 @@
     .write-comments input,
     .write-comments button {
       width: 100%; 
+    }
+    .img_space{
+      height: 150px;
     }
   }
   
