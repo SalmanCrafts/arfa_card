@@ -41,6 +41,9 @@
     .title {
       font-size: 1.2em;
     }
+    .img_space{
+      height: 200px;
+    }
     .scrollable-div {
         margin-top: 15vh;
       }
